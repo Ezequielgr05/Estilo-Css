@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* --------------------------------------------- */
+/* * {
+    margin: 0;
+} */
+/* --------------------------------------------- */
+.carnivoros {
+    background-color: darkred;
+}
+
+.herbivoros {
+    background-color: lightgreen;
+}
+
+.voladores {
+    filter: drop-shadow(0 5px 5px rgba(17, 16, 0, 0.7));
+}
+
+.acuaticos {
+    font-family: cursive;
+    color: rgb(84, 95, 255);
+}
+
+.guiasTuristicas {
+    text-align: center;
+}
+
+#tiranosaurio {
+    font-size: 24px;
+    color: #D0EB00;
+}
+
+#triceratops {
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+/* --------------------------------------------- */
+
+/* .header {
+    background-color: green;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.header_title {
+    font-family: "Bungee", sans-serif;
+} */
+
