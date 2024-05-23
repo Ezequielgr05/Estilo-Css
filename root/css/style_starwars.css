@@ -56,6 +56,10 @@ li, p, img {
     margin: auto;
 }
 
+.nave {
+    text-transform: uppercase;
+}
+
 #darth_vader, #luke {
     font-size: 25px;
     margin-top: 10px;
